@@ -25,7 +25,7 @@ def get_holiday(date_year,state):
 	NY_holiday = holidays.CountryHoliday('US',state=state)
 
 	if len(pd.bdate_range(date_value,date_value)) == 1:
-		if date(y,m,d) in NY_holiday:
+		if (date(y,m,d) in NY_holiday) == True:
 			res = "holiday"
 		else:
 			res = "weekday"
