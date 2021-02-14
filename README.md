@@ -52,7 +52,7 @@ The **WHL** files are obtained from https://www.lfd.uci.edu/~gohlke/pythonlibs/#
 **pip install Rtree** and restart your jupyter kernel or Python interpreter.
 
 ### Data Analysis ipy notebook  
-Google drive link: https://drive.google.com/file/d/1cyPE5LuHWhujok1q2nEl6QvsJ0lSlkoE/view?usp=sharing
+Google drive link: https://drive.google.com/file/d/1tjLbnm7ZJUHnD6nlVoy8Rv4ZayYJasfV/view?usp=sharing
 Due to the size of the notebook it cannot be uploaded on the Git repository.  
 
 ### NOTE: If you run into any issues, feel free to request us for assistance either by creating issues or contacting us directly.  
